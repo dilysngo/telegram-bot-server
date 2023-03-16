@@ -1,4 +1,4 @@
-# Building a Telegram Bot with Node.js in 10 minutes
+# Building a Telegram Bot with Node.js
 
 ## Installation
 
